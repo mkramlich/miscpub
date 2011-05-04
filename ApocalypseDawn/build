@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cc -o dawn dawn.c
+# enter "dawn" to run the game

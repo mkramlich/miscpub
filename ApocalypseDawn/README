@@ -1,0 +1,29 @@
+Apocalypse Dawn
+
+README
+
+To build:
+    ./build
+
+Then to play:
+    ./dawn
+
+All this should work on most modern Unix-like systems, including Linux and Mac.
+If it doesn't work on your particular machine you may need to hack on the included build script. I've gotten it to work with CygWin on Windows in the past but that's like putting a bag over the head of an ugly person (a bag with lots of tears in it, that let's you see inside) so I've abandoned that universe and therefore I'm unsure what state that's in. Probably still works. Please, please, please, switch to Mac or Linux.
+
+This code is a prototype for a game.
+A game prototype emphasizes the gameplay experience, and is used to explore and prove out a game design idea, or play mechanics. The purpose is not to create or test final architecture or implementation, though some of it may survive from the prototype into the final, shipping version.
+
+Since it is a prototype it is not optimized, not thoroughly factored, and may even have a few bugs or vulnerabilties lurking around.
+Though C is useful and cool in certain ways, I've generally abandoned it for generic application development, preferring either Python or Java, in most cases. So there's been no significant changes to this codebase in many years. Caveat emptor.
+
+I'm making this available on the web for free mostly to serve as a tangible example of my C programming experience. I don't think this particular project shows any elite knowledge of C, just pretty simple functionality, expressed as clearly and quickly as I could hack it out. I've created both larger and more complex systems in C in the past, and probably better ones as well... Yeah... And you should have seen the fish that got away, I tell ya, it was *this* big!
+
+thanks and enjoy,
+
+Mike Kramlich
+ZodLogic Games
+March 30, 2008
+groglogic@gmail.com
+http://zodlogic.webfactional.com
+
